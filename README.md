@@ -3,7 +3,7 @@ Esta es una pequeña muestra del consumo de API con Fetch en el lenguaje de prog
 
 Rick and Morty app
 
-Pueden buscarlo en : https://santiagoarturo.github.io/covid-web/
+Pueden buscarlo en : https://santiagooarturo.github.io/rickandmorty_app/
 
 Fue realizado con html5, css3 y JavaScript, todo el codigo fuente se encuentra aca para que lo puedan leer y comprender, ¡INTENTENLO!
 
